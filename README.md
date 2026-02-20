@@ -20,14 +20,14 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_bitwizard.tech-000?style=for-the-badge&logoColor=white)](https://bitwizard.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_bitwizard.tech-000?style=for-the-badge&logoColor=white)](https://bitwizard.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-bhoyar-b597b416a)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/raj729/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rbhoyar729)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=👁️+PROFILE+VIEWS&color=00f5ff&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=bitwizard25&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -104,7 +104,7 @@ currently  : Building something awesome... 🔨
 <tr>
 <td width="50%">
 
-### 🫁 [RespireX](https://github.com/rajbhoyar729/RespireX)
+### 🫁 [RespireX](https://github.com/bitwizard25/RespireX)
 
 ```
 STATUS: 🟢 MVP DEPLOYED
@@ -149,20 +149,20 @@ while True:
 
 ## 📊 GitHub Stats
 
-> ⚠️ **Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username to activate stats cards!**
+> ⚠️ **Replace `bitwizard25` below with your actual GitHub username to activate stats cards!**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bitwizard25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitwizard25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bitwizard25&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bitwizard25&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -172,7 +172,7 @@ while True:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bitwizard25&theme=matrix&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 
 </div>
 
