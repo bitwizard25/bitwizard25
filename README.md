@@ -16,7 +16,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝     ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%F0%9F%9A%80;AI+%2F+ML+Architect+%F0%9F%A7%A0;Cloud+%26+DevOps+Wizard+%E2%98%81%EF%B8%8F;Startup+Tech+Partner+%F0%9F%92%A1;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Developer+%E2%80%94+Gen+AI+%F0%9F%A4%96;AI+%2F+ML+Engineer+%F0%9F%A7%A0;Cloud+%26+DevOps+Wizard+%E2%98%81%EF%B8%8F;Startup+Tech+Partner+%F0%9F%92%A1;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rajbhoyar729&label=👁️+PROFILE+VIEWS&color=00f5ff&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=👁️+PROFILE+VIEWS&color=00f5ff&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -42,7 +42,7 @@ $ cat /etc/raj.conf
 ```yaml
 name       : Raj Bhoyar
 location   : India 🇮🇳
-role       : Full-Stack Developer & AI Engineer
+role       : Full Stack Developer | Software Developer (Gen AI)
 mission    : "Empowering startups with cutting-edge technology"
 status     : 🟢 Open to collabs & opportunities
 superpower : Turning ☕ into scalable production systems
@@ -74,6 +74,14 @@ currently  : Building something awesome... 🔨
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🤖 Gen AI & LLM Stack
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-00f5ff?style=for-the-badge&logoColor=black)
+![Vector DB](https://img.shields.io/badge/Vector_DB-6B46C1?style=for-the-badge&logoColor=white)
+![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logoColor=white)
 
 ### ☁️ Cloud, DevOps & Data
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -141,18 +149,20 @@ while True:
 
 ## 📊 GitHub Stats
 
+> ⚠️ **Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username to activate stats cards!**
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajbhoyar729&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajbhoyar729&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajbhoyar729&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajbhoyar729&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -162,7 +172,7 @@ while True:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajbhoyar729&theme=matrix&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 
 </div>
 
