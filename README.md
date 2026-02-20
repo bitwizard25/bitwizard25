@@ -161,16 +161,6 @@ while True:
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bitwizard25&theme=matrix&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 📜 Certifications
 
 ```
