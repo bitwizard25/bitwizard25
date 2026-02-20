@@ -20,7 +20,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_bitwizard.tech-000?style=for-the-badge&logoColor=white)](https://bitwizard.tech)
+[![Portfolio](https://img.shields.io/badge/🌐_bitwizard.tech-000?style=for-the-badge&logoColor=white)](https://bitwizard.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-bhoyar-b597b416a)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/raj729/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rbhoyar729)
