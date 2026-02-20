@@ -149,7 +149,6 @@ while True:
 
 ## 📊 GitHub Stats
 
-> ⚠️ **Replace `bitwizard25` below with your actual GitHub username to activate stats cards!**
 
 <div align="center">
 
