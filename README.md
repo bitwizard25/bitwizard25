@@ -149,11 +149,12 @@ while True:
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bitwizard25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitwizard25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bitwizard25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitwizard25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&cache_seconds=1800&langs_count=8"/>
+
+> 💡 **If stats cards show broken images:** Deploy your own free instance → [github-readme-stats deploy guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and replace the URLs with your own Vercel deployment.
 
 <br/>
 
