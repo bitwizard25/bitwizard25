@@ -149,8 +149,6 @@ while True:
 
 ## 📊 GitHub Stats
 
-> ⚠️ **Replace `bitwizard25` below with your actual GitHub username to activate stats cards!**
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bitwizard25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&count_private=true"/>
