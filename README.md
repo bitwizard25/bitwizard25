@@ -189,24 +189,6 @@ STATUS: 🟢 SHIPPED
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bitwizard25&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f5ff&ring=00f5ff&fire=ff6b6b&currStreakLabel=00f5ff" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=bitwizard25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bitwizard25&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
 ## ✍️ Writing
 
 > 📝 **[The Battle for Consistency: A Journey of Hammering Away at Problems](https://medium.com/@rbhoyar729/the-battle-for-consistency-a-journey-of-hammering-away-at-problems-introduction-cad6b9d39a48)**
