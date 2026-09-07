@@ -164,24 +164,13 @@ STATUS: 🟢 MVP DEPLOYED
 STATUS: 🟢 SHIPPED
 ```
 
-> Civic engagement platform connecting citizens with local governance — transparency as a product.
+>A reimagining of the video-watching experience — cinematic watch mode, distraction-free by design.
 
 **Stack:**
 `Remix` · `TypeScript` · `Node.js` · `MongoDB`
 
 </td>
 <td width="50%" valign="top">
-
-### 🎬 Project Nexus
-
-```
-STATUS: 🟢 SHIPPED
-```
-
-> A reimagining of the video-watching experience — cinematic watch mode, distraction-free by design.
-
-**Stack:**
-`React` · `Node.js` · `YouTube APIs`
 
 </td>
 </tr>
