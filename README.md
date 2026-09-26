@@ -198,7 +198,7 @@ More posts on system design, AI infra, and lessons from production → [Medium](
 ╚══════════════════════════════════════════════╝
 ```
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-bitwizard.tech-00f5ff?style=for-the-badge)](https://bitwizard.tech)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-bitwizard.tech-00f5ff?style=for-the-badge)](https://bitwizard.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-bhoyar-b597b416a)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Grind-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/raj729/)
 [![Medium](https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rbhoyar729)
