@@ -8,7 +8,7 @@
 ██║  ██║██║  ██║╚█████╔╝    ██████╔╝██║  ██║╚██████╔╝   ██║   ██║  ██║██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝     ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
 </pre>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Backend+%2B+AI+Systems+Engineer+%F0%9F%9A%80;Go+%C2%B7+Python+%C2%B7+TypeScript;Building+AI+Agent+Platforms+%F0%9F%A4%96;RAG+Pipelines+%26+LLM+Infra+%F0%9F%A7%A0;Distributed+Systems+%26+Microservices+%E2%98%81%EF%B8%8F;Ship+fast.+Learn+faster.+Iterate+always.+%E2%9C%A8" alt="Typing SVG" />
+[![Status](https://img.shields.io/badge/🟢_Open_to_Opportunities-Backend_%26_AI_Roles-00F5FF?style=for-the-badge&labelColor=000000)](mailto:rbhoyar729@gmail.com)
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Backend+%2B+AI+Systems+Engineer+%F0%9F%9A%80;Go+%C2%B7+Python+%C2%B7+TypeScript;Building+AI+Agent+Platforms+%F0%9F%A4%96;RAG+Pipelines+%26+LLM+Infra+%F0%9F%A7%A0;Distributed+Systems+%26+Microservices+%E2%98%81%EF%B8%8F;Ship+fast.+Learn+faster.+Iterate+always.+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
