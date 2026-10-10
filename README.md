@@ -13,10 +13,6 @@
 
 <br/>
 
-[![Status](https://img.shields.io/badge/🟢_Open_to_Opportunities-Backend_%26_AI_Roles-00F5FF?style=for-the-badge&labelColor=000000)](mailto:rbhoyar729@gmail.com)
-
-<br/>
-
 [![Portfolio](https://img.shields.io/badge/🌐_bitwizard.tech-000?style=for-the-badge&logoColor=white)](https://bitwizard.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-bhoyar-b597b416a)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/raj729/)
@@ -27,3 +23,21 @@
 <img src="https://komarev.com/ghpvc/?username=bitwizard25&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge" alt="Profile Views" />
 
 </div>
+
+---
+
+## ⚡ `whoami`
+
+```bash
+$ cat /etc/raj.conf
+```
+
+```yaml
+name       : Raj Bhoyar
+location   : India 🇮🇳
+role       : Backend & AI Systems Engineer
+focus      : AI agent platforms · RAG pipelines · Go microservices · event-driven systems
+mission    : "Build systems that scale — and AI that actually ships to production"
+status     : 🟢 Open to collabs & interesting problems
+superpower : Turning ☕ into distributed systems that don't fall over
+currently  : Deep in agent orchestration, MCP tooling & retrieval quality 🔨
