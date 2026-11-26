@@ -21,28 +21,65 @@
 
 <br />
 
-### `$ whoami`
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### 👋 Hey, I'm Raj
+
+I build **backend systems that talk to AI** — real-time Go voice pipelines, LLM agent memory, and the boring-but-critical plumbing that keeps them up.
+
+- 🔭 Building **[Shiksh_AI](https://github.com/bitwizard25/Shiksh_AI)** — a streaming multilingual voice tutor
+- 🧪 Researching **bounded episodic memory** for LLM agents
+- 🔧 Fixing bugs in **Gemini CLI** and **LangGraph**
+- 💼 Open to **backend / infra / applied-AI** roles
+
+</td>
+<td width="42%" valign="top">
 
 ```yaml
-name:      Raj Bhoyar
-role:      Backend & AI Systems Engineer
-builds:    [low-latency Go services, voice/LLM pipelines, agent memory]
-ships_to:  [google-gemini/gemini-cli, langchain-ai/langgraph]
-research:  "Bounded episodic memory for LLM agents (Zenodo DOI)"
-motto:     "Measure it, then ship it."
+name:   Raj Bhoyar
+role:   Backend & AI Systems Engineer
+langs:  [Go, Python, TypeScript, C++]
+infra:  [Docker, AWS, Kafka, Redis]
+focus:
+  - low-latency streaming
+  - LLM agent memory
+  - reliability (breakers, failover)
 ```
 
-<br />
+</td>
+</tr>
+</table>
 
-### 🔧 Open-Source Contributions
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:7C3AED&height=2" width="100%" />
 
-* **[`google-gemini/gemini-cli#30473`](https://github.com/google-gemini/gemini-cli/pull/30473)** *(fixes [#30446](https://github.com/google-gemini/gemini-cli/issues/30446))* — Fixed context collapse in `collapseOlderFunctionResponses` by adding `calculateRetainedTurnByteSize` so evicted base64 image payloads no longer exhaust the 64 KB exempt retrieval budget and collapse earlier `read_file`/`grep` outputs. Backed by parameterized Vitest regression tests (`nested`, `sibling`, absent-response).
-* **[`langchain-ai/langgraph#9802`](https://github.com/langchain-ai/langgraph/pull/9802)** *(fixes [#9791](https://github.com/langchain-ai/langgraph/issues/9791))* — Aligned `InMemoryStore.search(filter=...)` with PostgreSQL JSONB by requiring key existence (stopping missing keys from matching `None`) and guarding `$gt`/`$gte`/`$lt`/`$lte` against `ValueError`/`TypeError` crashes on heterogeneous types.
-* **[`langchain-ai/langgraph#9803`](https://github.com/langchain-ai/langgraph/pull/9803)** *(fixes [#9792](https://github.com/langchain-ai/langgraph/issues/9792))* — Eliminated `bool` vs `int`/`float` filter conflation (`0`/`False`, `1`/`True`) across `InMemorySaver`, `SqliteSaver`/`AsyncSqliteSaver` (via SQLite `json_type`), and `InMemoryStore` with sync & async regression coverage.
+## 🔧 Open-Source Contributions
 
-<br />
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/google-gemini/gemini-cli/pull/30473"><img src="https://github.com/google-gemini.png" width="56" /></a><br />
+<b><a href="https://github.com/google-gemini/gemini-cli/pull/30473">gemini-cli #30473</a></b><br />
+<img src="https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square&color=00F5FF&label=%E2%98%85" /><br />
+<sub>Stopped base64 image payloads from exhausting the 64 KB budget and collapsing earlier tool outputs.</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/langchain-ai/langgraph/pull/9802"><img src="https://github.com/langchain-ai.png" width="56" /></a><br />
+<b><a href="https://github.com/langchain-ai/langgraph/pull/9802">langgraph #9802</a></b><br />
+<img src="https://img.shields.io/github/stars/langchain-ai/langgraph?style=flat-square&color=00F5FF&label=%E2%98%85" /><br />
+<sub>Made <code>InMemoryStore</code> filters match PostgreSQL JSONB and stopped comparison crashes on mixed types.</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/langchain-ai/langgraph/pull/9803"><img src="https://github.com/langchain-ai.png" width="56" /></a><br />
+<b><a href="https://github.com/langchain-ai/langgraph/pull/9803">langgraph #9803</a></b><br />
+<img src="https://img.shields.io/github/stars/langchain-ai/langgraph?style=flat-square&color=00F5FF&label=%E2%98%85" /><br />
+<sub>Fixed <code>0</code>/<code>False</code> and <code>1</code>/<code>True</code> mix-ups across in-memory and SQLite savers.</sub>
+</td>
+</tr>
+</table>
 
-### ⚡ Live Systems Architecture
+## ⚡ Featured Builds
 
 <div align="center">
   <a href="https://github.com/bitwizard25/Shiksh_AI">
@@ -50,36 +87,47 @@ motto:     "Measure it, then ship it."
   </a>
 </div>
 
-* **[Shiksh_AI](https://github.com/bitwizard25/Shiksh_AI)** — Open-source Go multilingual voice tutor streaming ASR → Gemini LLM → parallel Bhashini TTS with circuit breakers, failover, and Dockerized deployment.
-* **[DevPulse-AI](https://github.com/bitwizard25/DevPulse-AI)** & **[inventory_management_system](https://github.com/bitwizard25/inventory_management_system)** — Full-stack Python/TypeScript analytics and modular SaaS backend systems.
+<p align="center">
+  <a href="https://github.com/bitwizard25/Shiksh_AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bitwizard25&repo=Shiksh_AI&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/bitwizard25/DevPulse-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bitwizard25&repo=DevPulse-AI&theme=tokyonight&hide_border=true" /></a>
+</p>
 
-<br />
-
-### 🧠 Independent AI Memory Research
+## 🧠 Research — Bounded Episodic Agent Memory
 
 <div align="center">
   <a href="https://zenodo.org/records/24387983">
     <img src="./assets/ablation.gif" alt="Bounded Episodic Agent Memory 45-Run Ablation" width="100%" />
   </a>
+
+<br /><br />
+
+| Memory strategy | Held-out 1–3 day recall |
+|:--|:--:|
+| 🥇 **Selective write gating (24 slots)** | **`0.93 ± 0.03`** |
+| Write everything | `0.51` |
+| Unlimited RAG | `0.17` |
+
+<sub>45-run ablation · <a href="https://zenodo.org/records/24387983">Zenodo DOI 10.5281/zenodo.24387983</a> · <a href="https://www.kaggle.com/code/rajbhoyar/neuroresearch">reproduce on Kaggle</a></sub>
 </div>
 
-Published on **[Zenodo (DOI: 10.5281/zenodo.24387983)](https://zenodo.org/records/24387983)** with full reproducible experiments on **[Kaggle](https://www.kaggle.com/code/rajbhoyar/neuroresearch)** — demonstrating that selective write gating into 24 bounded slots achieves **`0.93 ± 0.03`** held-out 1–3 day recall vs. **`0.51`** for write-all and **`0.17`** for unlimited RAG.
-
-<br />
-
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,py,ts,cpp,nodejs,fastapi,postgres,mongodb,redis,kafka,rabbitmq,nextjs,react,docker,aws&perline=8&theme=dark" alt="Tech Stack" />
 </div>
 
+## 📈 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bitwizard25&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
 <br />
 
 <div align="center">
 
-**Open to backend, infra and applied-AI roles — let's talk.**
+<a href="https://bitwizard.vercel.app/"><b>Portfolio</b></a> · <a href="https://www.linkedin.com/in/raj-bhoyar-b597b416a">LinkedIn</a> · <a href="mailto:rbhoyar729@gmail.com">Email</a>
 
-[![Hire me](https://img.shields.io/badge/Say_hello-rbhoyar729@gmail.com-00F5FF?style=flat-square&logo=gmail&logoColor=black)](mailto:rbhoyar729@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=bitwizard25&color=0B1120&style=flat-square&label=profile+views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00F5FF&height=110&section=footer" width="100%" />
 
 </div>
