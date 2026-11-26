@@ -4,6 +4,12 @@
 
 <br />
 
+<a href="https://bitwizard.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=720&lines=Backend+%26+AI+Systems+Engineer;Go+streaming+pipelines+%E2%80%A2+agent+memory+research;Shipping+fixes+to+Gemini+CLI+%26+LangGraph" alt="Typing intro" />
+</a>
+
+<br />
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-bitwizard.vercel.app-0B1120?style=for-the-badge&logo=vercel&logoColor=00F5FF)](https://bitwizard.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj_Bhoyar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-bhoyar-b597b416a)
 [![Zenodo](https://img.shields.io/badge/Preprint-Zenodo_DOI-024DAD?style=for-the-badge&logo=zenodo&logoColor=white)](https://zenodo.org/records/24387983)
@@ -15,7 +21,20 @@
 
 <br />
 
-### Open-Source Contributions
+### `$ whoami`
+
+```yaml
+name:      Raj Bhoyar
+role:      Backend & AI Systems Engineer
+builds:    [low-latency Go services, voice/LLM pipelines, agent memory]
+ships_to:  [google-gemini/gemini-cli, langchain-ai/langgraph]
+research:  "Bounded episodic memory for LLM agents (Zenodo DOI)"
+motto:     "Measure it, then ship it."
+```
+
+<br />
+
+### 🔧 Open-Source Contributions
 
 * **[`google-gemini/gemini-cli#30473`](https://github.com/google-gemini/gemini-cli/pull/30473)** *(fixes [#30446](https://github.com/google-gemini/gemini-cli/issues/30446))* — Fixed context collapse in `collapseOlderFunctionResponses` by adding `calculateRetainedTurnByteSize` so evicted base64 image payloads no longer exhaust the 64 KB exempt retrieval budget and collapse earlier `read_file`/`grep` outputs. Backed by parameterized Vitest regression tests (`nested`, `sibling`, absent-response).
 * **[`langchain-ai/langgraph#9802`](https://github.com/langchain-ai/langgraph/pull/9802)** *(fixes [#9791](https://github.com/langchain-ai/langgraph/issues/9791))* — Aligned `InMemoryStore.search(filter=...)` with PostgreSQL JSONB by requiring key existence (stopping missing keys from matching `None`) and guarding `$gt`/`$gte`/`$lt`/`$lte` against `ValueError`/`TypeError` crashes on heterogeneous types.
@@ -23,7 +42,7 @@
 
 <br />
 
-### Live Systems Architecture
+### ⚡ Live Systems Architecture
 
 <div align="center">
   <a href="https://github.com/bitwizard25/Shiksh_AI">
@@ -36,7 +55,7 @@
 
 <br />
 
-### Independent AI Memory Research
+### 🧠 Independent AI Memory Research
 
 <div align="center">
   <a href="https://zenodo.org/records/24387983">
@@ -48,8 +67,19 @@ Published on **[Zenodo (DOI: 10.5281/zenodo.24387983)](https://zenodo.org/record
 
 <br />
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,py,ts,cpp,nodejs,fastapi,postgres,mongodb,redis,kafka,rabbitmq,nextjs,react,docker,aws&perline=8&theme=dark" alt="Tech Stack" />
+</div>
+
+<br />
+
+<div align="center">
+
+**Open to backend, infra and applied-AI roles — let's talk.**
+
+[![Hire me](https://img.shields.io/badge/Say_hello-rbhoyar729@gmail.com-00F5FF?style=flat-square&logo=gmail&logoColor=black)](mailto:rbhoyar729@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=bitwizard25&color=0B1120&style=flat-square&label=profile+views)
+
 </div>
