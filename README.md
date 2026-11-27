@@ -17,6 +17,10 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-raj729-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/raj729/)
 [![Email](https://img.shields.io/badge/Email-rbhoyar729@gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rbhoyar729@gmail.com)
 
+<br /><br />
+
+<sub><b>Available for TypeScript, Go &amp; AI backend contracts or full-time roles</b> — see PRs in <a href="https://github.com/google-gemini/gemini-cli/pull/30473">gemini-cli</a>, <a href="https://github.com/calcom/cal.diy/pull/30647">cal.diy</a>, and <a href="https://github.com/bitwizard25/Shiksh_AI">Shiksh_AI</a> · <a href="mailto:rbhoyar729@gmail.com?subject=Engineering%20Contract%20%2F%20Role%20Inquiry">Book a quick chat</a></sub>
+
 </div>
 
 <br />
@@ -31,8 +35,8 @@ I build **backend systems that talk to AI** — real-time Go voice pipelines, LL
 
 - 🔭 Building **[Shiksh_AI](https://github.com/bitwizard25/Shiksh_AI)** — a streaming multilingual voice tutor
 - 🧪 Researching **bounded episodic memory** for LLM agents
-- 🔧 Fixing bugs in **Gemini CLI** and **LangGraph**
-- 💼 Open to **backend / infra / applied-AI** roles
+- 🔧 Fixing bugs in **Gemini CLI**, **Cal.diy**, and **LangGraph**
+- 💼 Open to **contract, freelance & full-time** backend / infra / applied-AI work
 
 </td>
 <td width="42%" valign="top">
@@ -75,6 +79,26 @@ focus:
 <b><a href="https://github.com/langchain-ai/langgraph/pull/9803">langgraph #9803</a></b><br />
 <img src="https://img.shields.io/github/stars/langchain-ai/langgraph?style=flat-square&color=00F5FF&label=%E2%98%85" /><br />
 <sub>Fixed <code>0</code>/<code>False</code> and <code>1</code>/<code>True</code> mix-ups across in-memory and SQLite savers.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/google-gemini/gemini-cli/pull/30489"><img src="https://github.com/google-gemini.png" width="56" /></a><br />
+<b><a href="https://github.com/google-gemini/gemini-cli/pull/30489">gemini-cli #30489</a></b><br />
+<img src="https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square&color=00F5FF&label=%E2%98%85" /><br />
+<sub>Normalized CRLF line endings in <code>write_file</code> diffs while preserving CRLF on disk.</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/google-gemini/gemini-cli/pull/30490"><img src="https://github.com/google-gemini.png" width="56" /></a><br />
+<b><a href="https://github.com/google-gemini/gemini-cli/pull/30490">gemini-cli #30490</a></b><br />
+<img src="https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square&color=00F5FF&label=%E2%98%85" /><br />
+<sub>Passed <code>config</code> to <code>getDisplayString</code> in <code>Footer.tsx</code> so custom Vertex AI model names render.</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/calcom/cal.diy/pull/30647"><img src="https://github.com/calcom.png" width="56" /></a><br />
+<b><a href="https://github.com/calcom/cal.diy/pull/30647">cal.diy #30647</a></b><br />
+<img src="https://img.shields.io/github/stars/calcom/cal.diy?style=flat-square&color=00F5FF&label=%E2%98%85" /><br />
+<sub>Allowed legacy admin passwords to verify via <code>verifyPassword()</code> during account deletion.</sub>
 </td>
 </tr>
 </table>
